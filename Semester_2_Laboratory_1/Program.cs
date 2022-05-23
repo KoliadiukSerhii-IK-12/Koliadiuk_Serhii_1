@@ -10,9 +10,9 @@ namespace Semester_2_Laboratory_1
     {
         static void Main(string[] args)
         {
-            //Task_1();
+            Task_1();
             Task_2();
-            //Task_3();
+            Task_3();
         }
 
         static void Task_1()
