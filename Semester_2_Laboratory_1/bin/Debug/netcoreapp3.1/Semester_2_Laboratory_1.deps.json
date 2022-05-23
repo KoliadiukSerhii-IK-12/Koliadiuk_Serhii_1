@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Semester_2_Laboratory_1/1.0.0": {
+        "runtime": {
+          "Semester_2_Laboratory_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Semester_2_Laboratory_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
